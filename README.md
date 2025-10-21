@@ -4,7 +4,7 @@
 
 Gesturize is an innovative application that enables computer control through hand gestures captured via webcam. Using advanced computer vision and machine learning techniques, the system recognizes and interprets various hand gestures to perform actions like cursor movement, clicking, scrolling, and keyboard shortcuts.
 
-![Gesturize Logo](gesture-app-frontend/assets/logo.png)
+![Gesturize Logo](Gesture-main/gesture-app-frontend/assets/logo.png)
 
 ## Features
 
